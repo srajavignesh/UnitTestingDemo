@@ -1,0 +1,8 @@
+C:\Users\s_raj\source\repos\XMLSerialization\bin\Debug\netcoreapp3.1\XMLSerialization.deps.json
+C:\Users\s_raj\source\repos\XMLSerialization\bin\Debug\netcoreapp3.1\XMLSerialization.dll
+C:\Users\s_raj\source\repos\XMLSerialization\bin\Debug\netcoreapp3.1\XMLSerialization.pdb
+C:\Users\s_raj\source\repos\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.csprojAssemblyReference.cache
+C:\Users\s_raj\source\repos\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.AssemblyInfoInputs.cache
+C:\Users\s_raj\source\repos\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.AssemblyInfo.cs
+C:\Users\s_raj\source\repos\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.dll
+C:\Users\s_raj\source\repos\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.pdb
